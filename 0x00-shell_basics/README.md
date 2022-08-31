@@ -1,2 +1,1 @@
-#!/bin/bash
-Print the absolute path name
+lists content of current directory
