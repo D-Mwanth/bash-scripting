@@ -1,0 +1,2 @@
+#!/bin/push
+echo /etc/passwd  /etc/hosts
